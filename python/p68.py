@@ -6,6 +6,6 @@ start = time.time()
 def is_a_string_bigger(stra, strb): 
 	return int(a) > int(b)
 
-
+#IDK
 
 print("evaluated int: ", time.time() - start,'s')
